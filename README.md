@@ -1,5 +1,5 @@
 # yukiproject
-Meet Yuki, a very intelligent artificial intelligence who will love talking to you! :D
+Meet Yuki, one intelligent artificial who will love talking to you! :D
 
 Yuki can talk about anything but sex and other harmful things, we forbid her to talk about these topics.
 
