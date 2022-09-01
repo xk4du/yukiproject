@@ -12,4 +12,4 @@ For it to work download python3 and import the libraries: numpy, tflearn, tensor
 
 Without these python libraries, Yuki will not work. It is in the testing phase and may be updated
 
-Developed by David Poltergatt (IG:@xkadu) and Marcos Avila (IG:@sylv1r)
+Developed by David Poltergatt (IG:@_xkadu_) and Marcos Avila (IG:@sylv1r)
